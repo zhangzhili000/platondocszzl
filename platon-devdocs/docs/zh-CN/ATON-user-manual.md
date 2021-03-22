@@ -24,7 +24,8 @@ title: ATON钱包用户使用手册
 ## 钱包资产
 
 <div>
-<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton2.png" width="300" style="zoom:80%;"  /></div> <div><br>1. 在存在钱包的情况下，钱包资产主页会显示一个有效的钱包及其资产信息。<br>2. ①顶部部分是当前钱包简要信息。<br>3. ②钱包简要信息包含钱包名和钱包地址，以及【切换钱包】按钮。<br>4. ③点击【复制】按钮可以复制当前钱包的地址。<br>5. ④点击【钱包管理】按钮可以对钱包进行管理。<br>6. ⑤顶部左上角显示当前钱包所在节点信息，点击可以切换节点。<br>7. ⑥点击【...】可创建和导入钱包，点击扫一扫可扫描二维码。<br>8. 页面下半部分是【资产列表】。<br>9. ⑦第一条是ATP数据，可以看到单位和余额，点击可以进入ATP资产详情页面。<br>12. ⑧ARC20智能合约数据，可以看到单位和余额，点击可以进入ARC20智能合约资产详情页面。<br>13. “收藏”页签为ARC721智能合约数据，点击可以进入ARC721智能合约资产列表页面。
+<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton2.png" width="300" style="zoom:80%;"  /></div> <div><br>1. 在存在钱包的情况下，钱包资产主页会显示一个有效的钱包及其资产信息。<br>2. ①顶部部分是当前钱包简要信息。<br>3. ②钱包简要信息包含钱包名和钱包地址，以及【切换钱包】按钮。<br>4. ③点击【复制】按钮可以复制当前钱包的地址。<br>5. ④点击【钱包管理】按钮可以对钱包进行管理。<br>6. ⑤顶部左上角显示当前钱包所在节点信息，点击可以切换节点。<br>7. ⑥点击【...】可创建和导入钱包，点击扫一扫可扫描二维码。<br>8. 页面下半部分是【资产列表】。<br>9. ⑦第一条是LAT数据，可以看到单位和余额，点击可以进入LAT资产详情页面。<br>12. ⑧PRC20智能合约数据，可以看到单位和余额，点击可以进入PRC20智能合约资产详情页面。<br>13. “收藏”页签为PRC721智能合约数据，点击可以进入PRC721智能合约资产列表页面。
+
 
 
 
@@ -35,7 +36,7 @@ title: ATON钱包用户使用手册
 <div style="margin-top:40px;"></div>
 </div>
 
-## ATP资产详情
+## LAT资产详情
 
 <div>
 <div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton3.png" width="300" style="zoom:80%;"  /></div> <div><br>1. 顶部部分是当前钱包信息。<br>2. 钱包信息包含余额、单位和锁仓余额，以及【发送】按钮和【接收】按钮。<br>3. 点击【发送】按钮可以跳转到发送页面进行转账。<br>4. 点击【接收】按钮进入接收页面进行接收转账。<br>5. 页面下半部分是【交易记录】。<br>6. 页面下半部分是交易记录，点击单条交易记录可以进入交易记录详情页面。
@@ -46,7 +47,7 @@ title: ATON钱包用户使用手册
 
 
 
-## ARC20智能合约资产详情
+## PRC20智能合约资产详情
 
 <div>
 <div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/alat1.jpg" width="300" style="zoom:80%;"  /></div> <div><br>1. 顶部部分是当前钱包信息。<br>2.钱包信息包含余额、单位，以及【发送】按钮和【接收】按钮。<br>3. 部分钱包拥有发送权限，点击【发送】按钮进入接收页面进行接收转账。<br>4. 点击【接收】按钮进入接收页面进行接收转账。<br>5. 页面下半部分是【交易记录】。<br>6. 页面下半部分是交易记录，点击单条交易记录可以进入交易记录详情。
@@ -59,27 +60,12 @@ title: ATON钱包用户使用手册
 <div style="margin-top:40px;"></div>
 </div>
 
-## ARC721智能合约
+## PRC721智能合约
 
-### ARC721智能合约资产列表
-
-<div>
-<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/paints1.jpg" width="300" style="zoom:80%;"  /></div> <div><br>点击其中一个ARC721资产，可以进入该ARC721资产详情页面。
-
-
-
-
-</div>
-
-<div style="clear:both"></div>
-<div style="margin-top:40px;"></div>
-
-</div>
-
-### ARC721智能合约资产详情
+### PRC721智能合约资产列表
 
 <div>
-<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/paints2.jpg" width="300" style="zoom:80%;"  /></div> <div><br>1. 顶部部分是当前ARC721资产信息。<br>2. 页面下半部分是当前钱包拥有的ARC721资产列表，点击单条资产图片可以进入收藏详情。
+<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/paints1.jpg" width="300" style="zoom:80%;"  /></div> <div><br>点击其中一个PRC721资产，可以进入该PRC721资产详情页面。
 
 
 
@@ -92,12 +78,13 @@ title: ATON钱包用户使用手册
 
 </div>
 
-
-
-### ARC721智能合约收藏品详情
+### PRC721智能合约资产详情
 
 <div>
-<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/paints3.jpg" width="300" style="zoom:80%;"  /></div> <div><br>1. 顶部部分是当前ARC721智能合约收藏品名称和ID。<br>2. 页面下半部分是当前收藏的详情、最近交易记录。<br>3.底部是发送该收藏品的按钮，点击后，进入发送页面，可以将该收藏品发送给其他地址。
+<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/paints2.jpg" width="300" style="zoom:80%;"  /></div> <div><br>1. 顶部部分是当前PRC721资产信息。<br>2. 页面下半部分是当前钱包拥有的PRC721资产列表，点击单条资产图片可以进入收藏详情。
+
+
+
 
 
 
@@ -110,7 +97,24 @@ title: ATON钱包用户使用手册
 
 
 
-### ARC721智能合约收藏品交易记录
+### PRC721智能合约收藏品详情
+
+<div>
+<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/paints3.jpg" width="300" style="zoom:80%;"  /></div> <div><br>1. 顶部部分是当前PRC721智能合约收藏品名称和ID。<br>2. 页面下半部分是当前收藏的详情、最近交易记录。<br>3.底部是发送该收藏品的按钮，点击后，进入发送页面，可以将该收藏品发送给其他地址。
+
+
+
+
+</div>
+
+<div style="clear:both"></div>
+<div style="margin-top:40px;"></div>
+
+</div>
+
+
+
+### PRC721智能合约收藏品交易记录
 
 <div>
 <div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/paints4.jpg" width="300" style="zoom:80%;"  /></div> <div><br>1. 点击“最近交易”可以查看到该收藏品的交易记录列表。<br>2. 点击某一条交易记录，可以查看到交易的详情。
@@ -207,7 +211,7 @@ title: ATON钱包用户使用手册
 ## 接收
 
 <div>
-<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton10.png" width="300" style="zoom:80%;" /></div><div><br>1. 在某个钱包的资产详情页点，点击【接收】栏，则可展示钱包地址和二维码。<br>2. 点击钱包地址复制按钮则可复制地址。<br>3. 点击【保存图片并分享】则可将图片保存至本地相册，并分享给他人。<br>4. 其他方可通过此地址或者扫描此二维码进行ATP转账。<br><br><b>注意</b><br>1. 充值时，请确认网络的正确性。
+<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton10.png" width="300" style="zoom:80%;" /></div><div><br>1. 在某个钱包的资产详情页点，点击【接收】栏，则可展示钱包地址和二维码。<br>2. 点击钱包地址复制按钮则可复制地址。<br>3. 点击【保存图片并分享】则可将图片保存至本地相册，并分享给他人。<br>4. 其他方可通过此地址或者扫描此二维码进行LAT转账。<br><br><b>注意</b><br>1. 充值时，请确认网络的正确性。
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
@@ -215,10 +219,11 @@ title: ATON钱包用户使用手册
 
 
 
-## 发送ATP
+
+## 发送LAT
 
 <div>
-<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton11.png" width="500" style="zoom:80%;" /></div><div><br>1.在ATP钱包资产详情页，点击【发送】栏。<br>2.输入有效的钱包地址，或者扫描钱包二维码进行地址的自动填充，或者通过地址簿选择本地已保存的钱包地址。<br>3.输入发送的ATP数量。<br>4.选择交易手续费，可通过点击自由调节更便宜或者更快捷的手续费。<br>5.点击【下一步】，确认交易信息，点击【发送交易】输入正确的钱包密码，即可发送交易至区块链网络。点击【取消】则可取消此次交易。
+<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton11.png" width="500" style="zoom:80%;" /></div><div><br>1.在LAT钱包资产详情页，点击【发送】栏。<br>2.输入有效的钱包地址，或者扫描钱包二维码进行地址的自动填充，或者通过地址簿选择本地已保存的钱包地址。<br>3.输入发送的LAT数量。<br>4.选择交易手续费，可通过点击自由调节更便宜或者更快捷的手续费。<br>5.点击【下一步】，确认交易信息，点击【发送交易】输入正确的钱包密码，即可发送交易至区块链网络。点击【取消】则可取消此次交易。
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
@@ -226,24 +231,27 @@ title: ATON钱包用户使用手册
 
 
 
-## 发送ARC20智能合约额度
+
+## 发送PRC20智能合约额度
 
 <div>
-<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/alat2.png" width="500" style="zoom:80%;" /></div><div><br>1.在ARC20智能合约的钱包资产详情页，点击【发送】栏。<br>2.输入有效的钱包地址，或者扫描钱包二维码进行地址的自动填充，或者通过地址簿选择本地已保存的钱包地址。<br>3.输入发送的ARC20智能合约额度。<br>4.选择交易手续费，可通过点击自由调节更便宜或者更快捷的手续费。<br>5.点击【下一步】，确认交易信息，点击【发送交易】输入正确的钱包密码，即可发送交易至区块链网络。点击【取消】则可取消此次交易。
+<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/alat2.png" width="500" style="zoom:80%;" /></div><div><br>1.在PRC20智能合约的钱包资产详情页，点击【发送】栏。<br>2.输入有效的钱包地址，或者扫描钱包二维码进行地址的自动填充，或者通过地址簿选择本地已保存的钱包地址。<br>3.输入发送的PRC20智能合约额度。<br>4.选择交易手续费，可通过点击自由调节更便宜或者更快捷的手续费。<br>5.点击【下一步】，确认交易信息，点击【发送交易】输入正确的钱包密码，即可发送交易至区块链网络。点击【取消】则可取消此次交易。
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
 
 
-## 发送ARC721智能合约收藏品
+
+## 发送PRC721智能合约收藏品
 
 <div>
-<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/paints5.jpg" width="500" style="zoom:80%;" /></div><div><br>1.在ARC721智能合约的收藏品详情页，点击【发送】栏。<br>2.输入有效的钱包地址，或者扫描钱包二维码进行地址的自动填充，或者通过地址簿选择本地已保存的钱包地址。<br>3.选择交易手续费，可通过点击自由调节更便宜或者更快捷的手续费。<br>4.点击【下一步】，确认交易信息，点击【发送交易】输入正确的钱包密码，即可发送交易至区块链网络。
+<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/paints5.jpg" width="500" style="zoom:80%;" /></div><div><br>1.在PRC721智能合约的收藏品详情页，点击【发送】栏。<br>2.输入有效的钱包地址，或者扫描钱包二维码进行地址的自动填充，或者通过地址簿选择本地已保存的钱包地址。<br>3.选择交易手续费，可通过点击自由调节更便宜或者更快捷的手续费。<br>4.点击【下一步】，确认交易信息，点击【发送交易】输入正确的钱包密码，即可发送交易至区块链网络。
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
+
 
 
 
@@ -265,22 +273,24 @@ title: ATON钱包用户使用手册
 ### 查看验证节点列表
 
 <div>
-<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton13.png" width="300"style="zoom:80%;" /></div> <div><br>1. 点击【委托-验证节点】，可查看Alaya网络中的验证节点。<br>2. 节点默认是按照排名进行排序，可支持接受委托量、委托者数、预计委托年化收益率排名。<br>3. 活跃中节点：指当前结算周期参与共识选举并有机会生产区块获得出块奖励的验证节点。<br>4. 候选中节点：指当前结算周期不参与共识选举的验证节点。
+<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton13.png" width="300"style="zoom:80%;" /></div> <div><br>1. 点击【委托-验证节点】，可查看PlatON网络中的验证节点。<br>2. 节点默认是按照排名进行排序，可支持接受委托量、委托者数、预计委托年化收益率排名。<br>3. 活跃中节点：指当前结算周期参与共识选举并有机会生产区块获得出块奖励的验证节点。<br>4. 候选中节点：指当前结算周期不参与共识选举的验证节点。
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
+
 
 
 
 ### 查看验证节点详情
 
 <div>
-<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton14.jpg" width="300" style="zoom:80%;" /></div><div><br>1.点击某个具体节点，可查看节点的收益相关信息：<br>- 预计委托收益率：近4个结算周期每份额委托净收益折合成的年化收益率，基于该值可预估委托收益情况<br>-委托奖励比例：节点所获奖励分配给委托者的比例，比例越大，委托奖励越多<br>-累计奖励：节点累计分配的委托奖励数<br>2. 同时可查看节点的基本信息，如委托者信息、出块信息等。<br>3. 如果您想将ATP质押给此节点，可点击下方【委托】按钮进行操作。<br><br><b>注意</b><br>1. 基金会资助的节点，不接受委托。<br>2. 如果当前节点状态为“锁定中”，则不能接受委托。
+<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton14.jpg" width="300" style="zoom:80%;" /></div><div><br>1.点击某个具体节点，可查看节点的收益相关信息：<br>- 预计委托收益率：近4个结算周期每份额委托净收益折合成的年化收益率，基于该值可预估委托收益情况<br>-委托奖励比例：节点所获奖励分配给委托者的比例，比例越大，委托奖励越多<br>-累计奖励：节点累计分配的委托奖励数<br>2. 同时可查看节点的基本信息，如委托者信息、出块信息等。<br>3. 如果您想将LAT质押给此节点，可点击下方【委托】按钮进行操作。<br><br><b>注意</b><br>1. 基金会资助的节点，不接受委托。<br>2. 如果当前节点状态为“锁定中”，则不能接受委托。
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
+
 
 
 
@@ -289,11 +299,12 @@ title: ATON钱包用户使用手册
 ### 参与委托
 
 <div>
-<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton15.png" width="300" style="zoom:80%;"  /></div><div><br>1. 可点击【委托-验证节点】，选择某个节点进行委托。如果已委托过，可点击【委托-我的委托-委托节点详情】，选择某个节点继续进行委托。<br>2. 进入页面，选择需要委托的钱包。<br>3. 如果钱包有锁仓金额，可点击委托钱包余额选项栏进行切换，使用锁仓金额进行委托（注意钱包余额需足够支付委托交易手续费）。<br>4. 输入委托的金额，每次委托不得小于10ATP。<br>5. 输入正确的密码即可完成委托。<br>6. 已委托过的节点，可再次进行委托，无次数限制。<br><br><b>注意</b><br>1. 委托人将ATP委托给节点，当委托的节点产生收益时，委托人将会获得基于节点配置的委托奖励比例分配的收益。<br>2. 收益节点关联的钱包地址，不可参与委托。<br>3. 委托的ATP在下个结算周期才开始生效。
+<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton15.png" width="300" style="zoom:80%;"  /></div><div><br>1. 可点击【委托-验证节点】，选择某个节点进行委托。如果已委托过，可点击【委托-我的委托-委托节点详情】，选择某个节点继续进行委托。<br>2. 进入页面，选择需要委托的钱包。<br>3. 如果钱包有锁仓金额，可点击委托钱包余额选项栏进行切换，使用锁仓金额进行委托（注意钱包余额需足够支付委托交易手续费）。<br>4. 输入委托的金额，每次委托不得小于10LAT。<br>5. 输入正确的密码即可完成委托。<br>6. 已委托过的节点，可再次进行委托，无次数限制。<br><br><b>注意</b><br>1. 委托人将LAT委托给节点，当委托的节点产生收益时，委托人将会获得基于节点配置的委托奖励比例分配的收益。<br>2. 收益节点关联的钱包地址，不可参与委托。<br>3. 委托的LAT在下个结算周期才开始生效。
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
+
 
 
 
@@ -311,11 +322,12 @@ title: ATON钱包用户使用手册
 ### 赎回委托
 
 <div>
-<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton17.png" width="500"style="zoom:80%;" /></div><div><br>1. 点击【委托-我的委托-详情-赎回委托】可进行赎回。<br>2. 输入想要赎回的数量，数量需大于等于10ATP，输入正确的密码即可完成赎回委托操作。<br><br><b>注意:</b><br>1. 赎回委托，将立即到账。<br>2. 操作全部赎回时，将自动领取委托奖励。
+<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton17.png" width="500"style="zoom:80%;" /></div><div><br>1. 点击【委托-我的委托-详情-赎回委托】可进行赎回。<br>2. 输入想要赎回的数量，数量需大于等于10LAT，输入正确的密码即可完成赎回委托操作。<br><br><b>注意:</b><br>1. 赎回委托，将立即到账。<br>2. 操作全部赎回时，将自动领取委托奖励。
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
+
 
 
 ## 设置观察钱包与冷钱包
