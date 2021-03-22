@@ -366,7 +366,6 @@ title: ATON钱包用户使用手册
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
-
 （1）点击钱包首页右上角的扫一扫，或者点击指定钱包的【离线签名】按钮，扫描观察钱包页面展示的二维码。
 （2）页面展示交易的详细信息，如确认无误则可以点击【授权签名】，输入钱包密码。
 （3）钱包密码输入正确后，页面会展示已签名的交易二维码信息，供观察钱包扫描。
@@ -394,15 +393,6 @@ title: ATON钱包用户使用手册
 
 ## 修改密码
 <div>
-<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton24.jpg" width="250" style="zoom:80%;" /><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton24.jpg" width="250" style="zoom:80%;" /></div></div><br>1. 点击【我的-钱包管理-修改密码】。<br>2. 输入原密码进行确认。<br>3. 设置新的钱包密码、确认钱包密码。<br>4. 点击【确认】按钮，修改密码成功。<br><br><b>注意</b><br>1. 钱包密码是您操作此钱包的凭证，服务器不会存储您的钱包密码，请务必牢记。
-
-
-
-
-
-
-
-
-
+<div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton24.jpg" width="250" style="zoom:80%;" /><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton25.jpg" width="250" style="zoom:80%;" /></div></div><br>1. 点击【我的-钱包管理-修改密码】。<br>2. 输入原密码进行确认。<br>3. 设置新的钱包密码、确认钱包密码。<br>4. 点击【确认】按钮，修改密码成功。<br><br><b>注意</b><br>1. 钱包密码是您操作此钱包的凭证，服务器不会存储您的钱包密码，请务必牢记。
 
 
