@@ -13,11 +13,12 @@ title: ATON Wallet User Manual
 ## Create Wallet
 
 <div>
-<div style = "float: left;"> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton1.png"width ="500" /> </div> <div> 1. Click [Create Wallet]. <br> 2.Select "Normal" or "HD". Set the wallet name, and password. <br> 3. Click the [Create] button to create a wallet. <br> 4. After the wallet is successfully created, you can click [Start to Backup] to start the backup, or click [Skip] to do it later. <br> <br> <b> Note </b> <br> 1. Password is your credentials to use and manage the wallet.  PlatON does not store your password,Please make sure you keep it in mind.<br> 2. We strongly recommend you to back up your wallet after it is created. <br> 3. Click the Node Switch button at the upper left corner of the page to switch nodes.
+<div style = "float: left;"> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton1.png"width ="500" /> </div> <div> 1. Click [Create Wallet]. <br> 2.Select "Normal" or "HD". Set the wallet name, and password. <br> 3. Click the [Create] button to create a wallet. <br> 4. After the wallet is successfully created, you can click [Start to Backup] to start the backup, or click [Skip] to do it later. <br> <br> <b> Note </b> <br> 1. Password is your credentials to use and manage the wallet.  Servers of ATON does not store your password,Please make sure you keep it in mind.<br> 2. We strongly recommend you to back up your wallet after it is created. <br> 3. Click the Node Switch button at the upper left corner of the page to switch nodes.
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
+
 
 
 
@@ -157,11 +158,12 @@ title: ATON Wallet User Manual
 ### Import Using Mnemonics
 
 <div>
-<div style = "float: left;"> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton6.png "width ="500 " style="zoom:80%;" /> </div> <div> <br> 1. Click the [...] button at the top right coner of the main interface, and select [Import Wallet]. Then move to [Mnemonic].. <br> 2. Fill in the mnemonics in the correct order. <br> 3. Select type "Normal" or "HD". Set the wallet name and password. <br> 4. Click the [Start to Import] button. After the mnemonic verification is passed, the wallet is successfully imported. <br> <br> <b> Note </b> <br> 1. Password is your credentials to use and manage the wallet.PlatON does not store your password, make sure you keep it in mind. <br> 2. Store your mnemonics in a safe place. <br> 3. You can also click the "[...]" button on the top right corner to import wallet.
+<div style = "float: left;"> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton6.png "width ="500 " style="zoom:80%;" /> </div> <div> <br> 1. Click the [...] button at the top right coner of the main interface, and select [Import Wallet]. Then move to [Mnemonic].. <br> 2. Fill in the mnemonics in the correct order. <br> 3. Select type "Normal" or "HD". Set the wallet name and password. <br> 4. Click the [Start to Import] button. After the mnemonic verification is passed, the wallet is successfully imported. <br> <br> <b> Note </b> <br> 1. Password is your credentials to use and manage the wallet.Servers of ATON does not store your password, make sure you keep it in mind. <br> 2. Store your mnemonics in a safe place. <br> 3. You can also click the "[...]" button on the top right corner to import wallet.
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
+
 
 
 
@@ -169,11 +171,12 @@ title: ATON Wallet User Manual
 ### Import Using Private Key
 
 <div>
-<div style = "float: left;"> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton7.png "width ="500"style="zoom:80%;" /> </div> <div> <br> 1.Click the [...] button at the top right coner of the main interface, and select [Import Wallet]. Then move to [Private Key]. <br> 2. Input your private key, or scan the QR code to get the private key.<br> 3. Set the wallet name and password. <br> 4. Click the [Start to Import] button. After the verification is passed, the wallet is successfully imported. <br> <br> <b> Note </b> <br> 1. Password is your credentials to use and manage the wallet. PlatON does not store your password, make sure you keep it in mind. <br> 2. Store your private key in a safe place. <br> 3. You can also click the "[...]" button on  the top right corner to import wallet.
+<div style = "float: left;"> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton7.png "width ="500"style="zoom:80%;" /> </div> <div> <br> 1.Click the [...] button at the top right coner of the main interface, and select [Import Wallet]. Then move to [Private Key]. <br> 2. Input your private key, or scan the QR code to get the private key.<br> 3. Set the wallet name and password. <br> 4. Click the [Start to Import] button. After the verification is passed, the wallet is successfully imported. <br> <br> <b> Note </b> <br> 1. Password is your credentials to use and manage the wallet. Servers of ATON does not store your password, make sure you keep it in mind. <br> 2. Store your private key in a safe place. <br> 3. You can also click the "[...]" button on  the top right corner to import wallet.
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
+
 
 
 
@@ -266,11 +269,13 @@ For details about importing observed wallets, please refer to the instructions o
 ## Choose Transaction Fee
 
 <div>
-<div style = "float: left;"> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton12.png "width ="500"style="zoom:80%;" /> </div> <div> <br> 1.The functions of sending, entrusting, redeeming and receiving rewards all incur transaction fees. <br> 2. Take the sending function as an example, click [Transaction Fee] to enter the transaction fee setting page.<br>3. There are 5 choices for transaction fees (fastest, fast, normal, slow, custom). <br> 4. [General] configuration item is selected by default.<br> 5.The user can select the corresponding option according to actual needs.<br> 6.In the [Custom] column, users can enter Gas Price and Gas Limit independently to achieve flexible cost configuration.
+<div style = "float: left;"> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton12.png "width ="500"style="zoom:80%;" /> </div> <div> <br> 1.The functions of sending, entrusting, redeeming and receiving rewards all incur transaction fees. <br> 2. Take the sending function as an example, click [Transaction Fee] to enter the transaction fee setting page.<br>3. There are 5 choices for transaction fees (Fastest, Fast, Recommended, Cheap, Customize). <br> 4. [Recommended] configuration item is selected by default.<br> 5.The user can select the corresponding option according to actual needs.<br> 6.In the [Customize] column, users can enter Gas Price and Gas Limit independently to achieve flexible cost configuration.
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
+
+
 
 
 
@@ -428,7 +433,8 @@ If you have set up observed wallets and cold wallets, you can initiate transfers
 ## Change Password
 
 <div>
-<div style = "float: left;"> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton24.jpg "width =" 250 " style="zoom:80%;" /><img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton25.jpg "width =" 250 " style="zoom:80%;" /> </div></div><br> 1. Move to [Me] - [Wallet Management] - [Change Password].<br> 2. Input the original password and click Confirm.<br> 3. Set new password and click Confirm.<br> 4. Click the [Confirm] button,then the wallet's password is successfully changed.<br><br> <b> Note </b> <br> 1. Password is your credentials to use and manage the wallet. PlatON does not store your password, make sure you keep it in mind.
+<div style = "float: left;"> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton24.jpg "width =" 250 " style="zoom:80%;" /><img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton25.jpg "width =" 250 " style="zoom:80%;" /> </div></div><br> 1. Move to [Me] - [Wallet Management] - [Change Password].<br> 2. Input the original password and click Confirm.<br> 3. Set new password and click Confirm.<br> 4. Click the [Confirm] button,then the wallet's password is successfully changed.<br><br> <b> Note </b> <br> 1. Password is your credentials to use and manage the wallet. Servers of ATON does not store your password, make sure you keep it in mind.
+
 
 
 
