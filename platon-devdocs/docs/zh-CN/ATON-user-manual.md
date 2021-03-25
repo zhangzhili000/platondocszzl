@@ -14,11 +14,12 @@ title: ATON钱包用户使用手册
 <div>
 <div style="float:left;"><img src="/platon-devdocs/img/zh-CN/ATON-manual-cn.assets/aton1.png" width="500" style="padding-bottom:50px;" /></div> <div><br>1. 点击【创建钱包】。<br>2. 选择钱包类型（普通或HD），设置符合规则的钱包名称和钱包密码。<br>3. 点击【创建钱包】按钮即可创建钱包。<br>4. 钱包创建成功后可以点击【钱包备份】开始备份，或者点击【跳过】后续进行备份。<br> <br><b>注意</b><br>1.钱包密码是您操作此钱包的凭证，服务器不会存储您的钱包密码，请务必牢记。<br>2.强烈建议您在创建钱包时即时备份。
 <br>3.点击页面左上角的节点切换按钮可以切换节点。
-    <br>4.钱包总数不得超过200（包括HD创建的所有子钱包数量、普通钱包数量）。
+    <br>4.钱包总数不得超过200（包括所有普通钱包的数量与HD创建的所有子钱包数量）。
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
+
 
 
 
