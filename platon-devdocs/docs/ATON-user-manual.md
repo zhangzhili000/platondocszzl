@@ -13,11 +13,12 @@ title: ATON Wallet User Manual
 ## Create Wallet
 
 <div>
-<div style = "float: left;"> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton1.png"width ="500" /> </div> <div> 1. Click [Create Wallet]. <br> 2.Select "Normal" or "HD". Set the wallet name, and password. <br> 3. Click the [Create] button to create a wallet. <br> 4. After the wallet is successfully created, you can click [Start to Backup] to start the backup, or click [Skip] to do it later. <br> <br> <b> Note </b> <br> 1. Password is your credentials to use and manage the wallet.  Servers of ATON does not store your password,Please make sure you keep it in mind.<br> 2. We strongly recommend you to back up your wallet after it is created. <br> 3. Click the Node Switch button at the upper left corner of the page to switch nodes.
+<div style = "float: left;"> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton1.png"width ="500" /> </div> <div> 1. Click [Create Wallet]. <br> 2.Select "Normal" or "HD". Set the wallet name, and password. <br> 3. Click the [Create] button to create a wallet. <br> 4. After the wallet is successfully created, you can click [Start to Backup] to start the backup, or click [Skip] to do it later. <br> <br> <b> Note </b> <br> 1. Password is your credentials to use and manage the wallet.  Servers of ATON does not store your password,Please make sure you keep it in mind.<br> 2. We strongly recommend you to back up your wallet after it is created. <br> 3. Click the Node Switch button at the upper left corner of the page to switch nodes.<br> 4. Amount of wallets cannot be larger than 200(including all sub-wallets generated from HD and normal wallets).
 </div>
 <div style="clear:both"></div>
 <div style="margin-top:40px;"></div>
 </div>
+
 
 
 
