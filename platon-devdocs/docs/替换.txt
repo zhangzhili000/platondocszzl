@@ -1,0 +1,6 @@
+图片地址
+
+英文：
+/docs/img/en/ATON-user-manual.assets/aton2.png
+中文：
+/docs/img/zh-CN/ATON-manual-cn.assets/aton2.png
