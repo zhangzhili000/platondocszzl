@@ -412,7 +412,7 @@ If you have set up observed wallets and cold wallets, you can initiate transfers
 **3. Observed wallet**
 
 <div>
-<div> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton21.png "width =" 300 " style="zoom:80%;" /> </div> 
+<div><img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton21.png "width =" 300 " style="zoom:80%;" /></div> 
 <div> 
 <br>(1) The offline signature is requied when you use observed wallet to send, delegate and withdraw.
 <br>(2) Click [Next], then you will arrive at the reading signature data page. 
