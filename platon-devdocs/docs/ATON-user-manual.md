@@ -402,6 +402,7 @@ If you have set up observed wallets and cold wallets, you can initiate transfers
 
 <div>
 <div> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton20.png "width =" 800 " style="zoom:80%;" /> </div>
+<div>
 <br>(1) Click the scan button  at the upper right corner, or click the [Offline Signature] button of the specified wallet to scan the QR code displayed on the wallet page. 
 <br>(2) The page displays the detailed transaction information. If there is no problems with the transaction, you can click [Next] and enter the password. 
 <br>(3) After  you can see the QR code of the signed transactions for the observed wallet to scan.
