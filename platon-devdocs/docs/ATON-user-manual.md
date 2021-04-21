@@ -13,7 +13,9 @@ ATON is a secure and user-friendly mobile wallet for PlatON Network and Alaya Ne
 <div style = "clear: both"> </div>
 <div style = "margin-top: 41px;"> </div>
 
-## Create Wallet
+## Start
+
+### Create Wallet
 
 <div>
 <div> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton1.png"width ="500"/> </div> 
@@ -31,6 +33,112 @@ ATON is a secure and user-friendly mobile wallet for PlatON Network and Alaya Ne
 </div>
 <div style="margin-top:40px;"></div>
 </div>
+
+### Wallet Backup
+
+<div>
+<div><img src="/platon-devdocs/img/en/ATON-user-manual.assets/aton4.png "width ="500" style="zoom:80%;"/></div> 
+<div> 
+<br>1. After creating the wallet, click [Backup] button for wallet backup. Or you can find it in [My]-[Wallet Management]. 
+<br>2. Wallet password is reeuqired for backup. After the password verification is passed, the system will display 12 English words as the mnemonic words. 
+<br>3. Copy the mnemonic and keep them in a safe place. Click [Next] to verify the mnemonic. If the verification succeeds, the wallet backup is completed. <br> 
+<br><b> Note </b> 
+<br>1. You can restore and manage your wallet with mnemonics words, keep them in a safe place.
+</div>
+<div style="margin-top:40px;"></div>
+</div>
+
+### Import Wallet
+
+#### Import Using Keystore
+
+<div>
+<div><img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton5.png "width ="500" style="zoom:80%" /></div> 
+<div> 
+<br>1. Click the [...] button at the top right coner of the main interface, and select [Import Wallet]. Then move to [Keystore]. 
+<br>2. Paster Input the keystore content, or scan the QR code to get the keystore file. 
+<br>3. Set the wallet name and password for this wallet. 
+<br>4. Click the [Start to Import] button. After the password verification is passed, the wallet is successfully imported. 
+<br> 
+<br><b> Note </b> 
+<br>1. Password is required when import ing wallet Keystore. 
+<br>2. Your wallet password is not stored in the server. If you forget the password, please use mnemonic and private key to import it. 
+<br>3. You can also click the "[...]" button on the top right corner to import wallet.
+</div>
+<div style="margin-top:40px;"></div>
+</div>
+
+#### Import Using Mnemonics
+
+<div>
+<div><img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton6.png "width ="500 " style="zoom:80%;" /> </div> 
+<div> 
+<br>1. Click the [...] button at the top right coner of the main interface, and select [Import Wallet]. Then move to [Mnemonic].
+<br>2. Fill in the mnemonics in the correct order. 
+<br>3. Select type "Normal" or "HD". Set the wallet name and password. 
+<br>4. Click the [Start to Import] button. After the mnemonic verification is passed, the wallet is successfully imported. 
+<br> 
+<br> <b> Note </b> 
+<br>1. Password is your credentials to use and manage the wallet.Servers of ATON does not store your password, make sure you keep it in mind. 
+<br>2. Store your mnemonics in a safe place. 
+<br>3. You can also click the "[...]" button on the top right corner to import wallet.
+</div>
+<div style="margin-top:40px;"></div>
+</div>
+
+#### Import Using Private Key
+
+<div>
+<div><img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton7.png "width ="500"style="zoom:80%;" /> </div> 
+<div> 
+<br>1.Click the [...] button at the top right coner of the main interface, and select [Import Wallet]. Then move to [Private Key]. 
+<br>2. Input your private key, or scan the QR code to get the private key.
+<br>3. Set the wallet name and password. 
+<br>4. Click the [Start to Import] button. After the verification is passed, the wallet is successfully imported. 
+<br> 
+<br> <b> Note </b> 
+<br>1. Password is your credentials to use and manage the wallet. Servers of ATON does not store your password, make sure you keep it in mind. 
+<br>2. Store your private key in a safe place. 
+<br>3. You can also click the "[...]" button on  the top right corner to import wallet.
+</div>
+<div style="margin-top:40px;"></div>
+</div>
+
+#### Import observed wallet
+
+For details about importing observed wallets, please refer to the instructions of “Set observed wallet and cold wallet”.
+
+<div style = "margin-top: 40px;"> </div>
+
+#### Address Book
+
+<div>
+<div><img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton8.png "width ="500"style="zoom:80%;" /> </div> 
+<div> 
+<br>1. Select [My-Settings],and you can see the list of wallet addresses stored in the address book. 
+<br>2. Click any of the address information to copy the selected address.
+<br>3. Slide any of the address information to delete and edit it. 
+<br>4. Click the [+] button on the right side of the top navigation bar to manually add address information to the address book.
+<br>5. At the same time, you can also check the [Deposit Address] button above the [Start Import] button on the [Create Wallet] and [Import Wallet] pages to enable the wallet to be stored in the address book automatically, and this option is checked by default.
+<br> 
+<br> 
+</div>
+<div style="margin-top:40px;"></div>
+</div>
+
+### Select Wallet
+
+<div>
+<div><img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton9.png "width =" 300 "style="zoom:80%;" /> </div> 
+<div> 
+<br>1. Click the [...] button at the top right coner of the main interface, then click [Select Wallet]. 
+<br>2. All your wallets can be classified and filtered as "All", "HD", "Normal", and you can also use fuzzy search with your wallet name or precise search with your wallet address. 
+<br>3. Select the wallet you need. 
+<br>4. Then you will be guide to the wallet page you selected.
+</div>
+<div style="margin-top:40px;"></div>
+</div>
+
 
 ##  Wallet Assets
 
@@ -52,7 +160,7 @@ ATON is a secure and user-friendly mobile wallet for PlatON Network and Alaya Ne
 <div style="margin-top:40px;"></div>
 </div>
 
-## LAT Assets Detail
+### LAT Assets Detail
 
 <div>
 <div><img src="/platon-devdocs/img/en/ATON-user-manual.assets/aton3.png" width="300" style="zoom:80%;"/></div> 
@@ -67,9 +175,9 @@ ATON is a secure and user-friendly mobile wallet for PlatON Network and Alaya Ne
 <div style="margin-top:40px;"></div>
 </div>
 
-## Collectibles（PRC721）
+### Collectibles（PRC721）
 
-### Collectible Set List
+#### Collectible Set List
 
 <div>
 <div><img src="/platon-devdocs/img/en/ATON-user-manual.assets/paints1.jpg" width="300" style="zoom:80%;"/></div> 
@@ -79,7 +187,7 @@ ATON is a secure and user-friendly mobile wallet for PlatON Network and Alaya Ne
 <div style="margin-top:40px;"></div>
 </div>
 
-### Collectible Set Detail
+#### Collectible Set Detail
 
 <div>
 <div><img src="/platon-devdocs/img/en/ATON-user-manual.assets/paints2.jpg" width="300" style="zoom:80%;"/></div> 
@@ -90,7 +198,7 @@ ATON is a secure and user-friendly mobile wallet for PlatON Network and Alaya Ne
 <div style="margin-top:40px;"></div>
 </div>
 
-### Collectible Detail
+#### Collectible Detail
 
 <div>
 <div><img src="/platon-devdocs/img/en/ATON-user-manual.assets/paints3.jpg" width="300" style="zoom:80%;"/></div> 
@@ -102,7 +210,7 @@ ATON is a secure and user-friendly mobile wallet for PlatON Network and Alaya Ne
 <div style="margin-top:40px;"></div>
 </div>
 
-### Collectible Tradings' Record
+#### Collectible Tradings' Record
 
 <div>
 <div><img src="/platon-devdocs/img/en/ATON-user-manual.assets/paints4.jpg" width="300" style="zoom:80%;"/></div> 
@@ -113,117 +221,7 @@ ATON is a secure and user-friendly mobile wallet for PlatON Network and Alaya Ne
 <div style="margin-top:40px;"></div>
 </div>
 
-## Wallet Backup
 
-<div>
-<div><img src="/platon-devdocs/img/en/ATON-user-manual.assets/aton4.png "width ="500" style="zoom:80%;"/></div> 
-<div> 
-<br>1. After creating the wallet, click [Backup] button for wallet backup. Or you can find it in [My]-[Wallet Management]. 
-<br>2. Wallet password is reeuqired for backup. After the password verification is passed, the system will display 12 English words as the mnemonic words. 
-<br>3. Copy the mnemonic and keep them in a safe place. Click [Next] to verify the mnemonic. If the verification succeeds, the wallet backup is completed. <br> 
-<br><b> Note </b> 
-<br>1. You can restore and manage your wallet with mnemonics words, keep them in a safe place.
-</div>
-<div style="margin-top:40px;"></div>
-</div>
-
-## Import Wallet
-
-### Import Using Keystore
-
-<div>
-<div><img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton5.png "width ="500" style="zoom:80%" /></div> 
-<div> 
-<br>1. Click the [...] button at the top right coner of the main interface, and select [Import Wallet]. Then move to [Keystore]. 
-<br>2. Paster Input the keystore content, or scan the QR code to get the keystore file. 
-<br>3. Set the wallet name and password for this wallet. 
-<br>4. Click the [Start to Import] button. After the password verification is passed, the wallet is successfully imported. 
-<br> 
-<br><b> Note </b> 
-<br>1. Password is required when import ing wallet Keystore. 
-<br>2. Your wallet password is not stored in the server. If you forget the password, please use mnemonic and private key to import it. 
-<br>3. You can also click the "[...]" button on the top right corner to import wallet.
-</div>
-<div style="margin-top:40px;"></div>
-</div>
-
-
-
-
-### Import Using Mnemonics
-
-<div>
-<div><img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton6.png "width ="500 " style="zoom:80%;" /> </div> 
-<div> 
-<br>1. Click the [...] button at the top right coner of the main interface, and select [Import Wallet]. Then move to [Mnemonic].
-<br>2. Fill in the mnemonics in the correct order. 
-<br>3. Select type "Normal" or "HD". Set the wallet name and password. 
-<br>4. Click the [Start to Import] button. After the mnemonic verification is passed, the wallet is successfully imported. 
-<br> 
-<br> <b> Note </b> 
-<br>1. Password is your credentials to use and manage the wallet.Servers of ATON does not store your password, make sure you keep it in mind. 
-<br>2. Store your mnemonics in a safe place. 
-<br>3. You can also click the "[...]" button on the top right corner to import wallet.
-</div>
-<div style="margin-top:40px;"></div>
-</div>
-
-
-
-
-
-### Import Using Private Key
-
-<div>
-<div><img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton7.png "width ="500"style="zoom:80%;" /> </div> 
-<div> 
-<br>1.Click the [...] button at the top right coner of the main interface, and select [Import Wallet]. Then move to [Private Key]. 
-<br>2. Input your private key, or scan the QR code to get the private key.
-<br>3. Set the wallet name and password. 
-<br>4. Click the [Start to Import] button. After the verification is passed, the wallet is successfully imported. 
-<br> 
-<br> <b> Note </b> 
-<br>1. Password is your credentials to use and manage the wallet. Servers of ATON does not store your password, make sure you keep it in mind. 
-<br>2. Store your private key in a safe place. 
-<br>3. You can also click the "[...]" button on  the top right corner to import wallet.
-</div>
-<div style="margin-top:40px;"></div>
-</div>
-
-### Import observed wallet
-
-For details about importing observed wallets, please refer to the instructions of “Set observed wallet and cold wallet”.
-
-<div style = "margin-top: 40px;"> </div>
-
-### Address Book
-
-<div>
-<div><img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton8.png "width ="500"style="zoom:80%;" /> </div> 
-<div> 
-<br>1. Select [My-Settings],and you can see the list of wallet addresses stored in the address book. 
-<br>2. Click any of the address information to copy the selected address.
-<br>3. Slide any of the address information to delete and edit it. 
-<br>4. Click the [+] button on the right side of the top navigation bar to manually add address information to the address book.
-<br>5. At the same time, you can also check the [Deposit Address] button above the [Start Import] button on the [Create Wallet] and [Import Wallet] pages to enable the wallet to be stored in the address book automatically, and this option is checked by default.
-<br> 
-<br> 
-</div>
-<div style="margin-top:40px;"></div>
-</div>
-
-## Select Wallet
-
-<div>
-<div><img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton9.png "width =" 300 "style="zoom:80%;" /> </div> 
-<div> 
-<br>1. Click the [...] button at the top right coner of the main interface, then click [Select Wallet]. 
-<br>2. All your wallets can be classified and filtered as "All", "HD", "Normal", and you can also use fuzzy search with your wallet name or precise search with your wallet address. 
-<br>3. Select the wallet you need. 
-<br>4. Then you will be guide to the wallet page you selected.
-</div>
-<div style="margin-top:40px;"></div>
-</div>
 
 ## Receive
 
@@ -242,7 +240,9 @@ For details about importing observed wallets, please refer to the instructions o
 <div style="margin-top:40px;"></div>
 </div>
 
-## Send LAT
+## Sending
+
+### Send LAT
 
 <div>
 <div> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton11.png "width ="500"style="zoom:80%;" /> </div> 
@@ -256,7 +256,7 @@ For details about importing observed wallets, please refer to the instructions o
 <div style="margin-top:40px;"></div>
 </div>
 
-## Send Collectible
+### Send Collectible
 
 <div>
 <div><img src="/platon-devdocs/img/en/ATON-user-manual.assets/paints5.jpg" width="500" style="zoom:80%;" /></div>
@@ -269,7 +269,7 @@ For details about importing observed wallets, please refer to the instructions o
 <div style="margin-top:40px;"></div>
 </div>
 
-## Choose Transaction Fee
+### Choose Transaction Fee
 
 <div>
 <div> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton12.png "width ="500"style="zoom:80%;" /> </div> 
@@ -365,7 +365,9 @@ For details about importing observed wallets, please refer to the instructions o
 <div style="margin-top:40px;"></div>
 </div>
 
-## Set the Observed Wallet and Cold Wallet
+## Observed Wallet and Cold Wallet
+
+### Set the Observed Wallet and Cold Wallet
 
 Preparation:
 
@@ -385,7 +387,7 @@ Preparation:
 <div style="margin-top:40px;"></div>
 </div>
 
-## Transaction with Cold Wallet
+### Transaction with Cold Wallet
 
 If you have set up observed wallets and cold wallets, you can initiate transfers, delegations, delegation withdrawals, etc. with the observed wallets, and have it worked with the cold wallets cooperate for sign. The following Below is an example. <br>
 
@@ -428,7 +430,9 @@ If you have set up observed wallets and cold wallets, you can initiate transfers
 <div style="margin-top:40px;"></div>
 </div>
 
-## Settings / Help and Feedback
+## Others
+
+### Settings / Help and Feedback
 
 <div>
 <div> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton22.jpg "width =" 250 " style="zoom:80%;" /><img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton23.jpg "width =" 250 " style="zoom:80%;" /> </div> 
@@ -444,7 +448,7 @@ If you have set up observed wallets and cold wallets, you can initiate transfers
 <div style="margin-top:40px;"></div>
 </div>
 
-## Change Password
+### Change Password
 
 <div>
 <div> <img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton24.jpg "width =" 250 " style="zoom:80%;" /><img src = "/platon-devdocs/img/en/ATON-user-manual.assets/aton25.jpg "width =" 250 " style="zoom:80%;" /> </div>
